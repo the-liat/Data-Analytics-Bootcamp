@@ -1,1 +1,1 @@
-# Data-Analytics-Bootcamp
+# data-analytics-bootcamp
